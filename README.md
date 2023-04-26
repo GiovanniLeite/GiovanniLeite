@@ -2,6 +2,11 @@
 
 Welcome to my page! <br />
 I'm Giovanni, a Full Stack Developer from Brazil.
+<br />
+<div>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiovanniLeite&theme=github_dark" />
+</div>
+
 
 ## 🖥️ Technologies and Tools
 
