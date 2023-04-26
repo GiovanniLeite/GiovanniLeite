@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey! Nice to see you
+
+Welcome to my page!
+I'm Giovanni, a Full Stack Developer from 🇧🇷 Brazil.
 
 <!--
 **GiovanniLeite/GiovanniLeite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
