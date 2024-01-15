@@ -29,7 +29,6 @@ I'm Giovanni, a Full Stack Developer from Brazil.
 ## 📚 Learning Now
 
 [![React](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 
 ## 📫 Where to find me
 
