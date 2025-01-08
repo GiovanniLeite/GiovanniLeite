@@ -1,7 +1,7 @@
 # 🛸Hey! Nice to see you
 
 Welcome to my page! <br />
-I'm Giovanni, a Full Stack Developer from Brazil.
+I'm Giovanni, a Full Stack Developer from Brazil, currently living in Berlin.
 <br />
 <div>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiovanniLeite&theme=github_dark" />
@@ -25,10 +25,6 @@ I'm Giovanni, a Full Stack Developer from Brazil.
   <img align="center" alt="Giovanni-postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
   <img align="center" alt="Giovanni-mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 </div>
-
-## 📚 Learning Now
-
-[![React](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev)
 
 ## 📫 Where to find me
 
